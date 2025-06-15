@@ -1,0 +1,240 @@
+[
+    {
+      "turn": 1,
+      "target": "蓝色方禁用分支",
+      "action": "ban",
+      "team": "blue",
+      "order": 0
+    },
+    {
+      "turn": 2,
+      "target": "红色方禁用分支",
+      "action": "ban",
+      "team": "red",
+      "order": 0
+    },
+    {
+      "turn": 3,
+      "target": "蓝色方禁用干员1",
+      "action": "ban",
+      "team": "blue",
+      "order": 1
+    },
+    {
+      "turn": 4,
+      "target": "红色方禁用干员1",
+      "action": "ban",
+      "team": "red",
+      "order": 1
+    },
+    {
+      "turn": 5,
+      "target": "蓝色方禁用干员2",
+      "action": "ban",
+      "team": "blue",
+      "order": 2
+    },
+    {
+      "turn": 6,
+      "target": "红色方禁用干员2",
+      "action": "ban",
+      "team": "red",
+      "order": 2
+    },
+    {
+      "turn": 7,
+      "target": "蓝色方禁用干员3",
+      "action": "ban",
+      "team": "blue",
+      "order": 3
+    },
+    {
+      "turn": 8,
+      "target": "红色方禁用干员3",
+      "action": "ban",
+      "team": "red",
+      "order": 3
+    },
+    {
+      "turn": 9,
+      "target": "蓝色方禁用干员4",
+      "action": "ban",
+      "team": "blue",
+      "order": 4
+    },
+    {
+      "turn": 10,
+      "target": "红色方禁用干员4",
+      "action": "ban",
+      "team": "red",
+      "order": 4
+    },
+    {
+      "turn": 11,
+      "target": "蓝色方禁用干员5",
+      "action": "ban",
+      "team": "blue",
+      "order": 5
+    },
+    {
+      "turn": 12,
+      "target": "红色方禁用干员5",
+      "action": "ban",
+      "team": "red",
+      "order": 5
+    },
+    {
+      "turn": 13,
+      "target": "蓝色方禁用干员6",
+      "action": "ban",
+      "team": "blue",
+      "order": 6
+    },
+    {
+      "turn": 14,
+      "target": "红色方禁用干员6",
+      "action": "ban",
+      "team": "red",
+      "order": 6
+    },
+    {
+      "turn": 15,
+      "target": "蓝色方选择干员1",
+      "action": "pick",
+      "team": "blue",
+      "order": 1
+    },
+    {
+      "turn": 16,
+      "target": "红色方选择干员1",
+      "action": "pick",
+      "team": "red",
+      "order": 1
+    },
+    {
+      "turn": 17,
+      "target": "红色方选择干员2",
+      "action": "pick",
+      "team": "red",
+      "order": 2
+    },
+    {
+      "turn": 18,
+      "target": "蓝色方选择干员2",
+      "action": "pick",
+      "team": "blue",
+      "order": 2
+    },
+    {
+      "turn": 19,
+      "target": "蓝色方选择干员3",
+      "action": "pick",
+      "team": "blue",
+      "order": 3
+    },
+    {
+      "turn": 20,
+      "target": "红色方选择干员3",
+      "action": "pick",
+      "team": "red",
+      "order": 3
+    },
+    {
+      "turn": 21,
+      "target": "红色方选择干员4",
+      "action": "pick",
+      "team": "red",
+      "order": 4
+    },
+    {
+      "turn": 22,
+      "target": "蓝色方选择干员4",
+      "action": "pick",
+      "team": "blue",
+      "order": 4
+    },
+    {
+      "turn": 23,
+      "target": "蓝色方选择干员5",
+      "action": "pick",
+      "team": "blue",
+      "order": 5
+    },
+    {
+      "turn": 24,
+      "target": "红色方选择干员5",
+      "action": "pick",
+      "team": "red",
+      "order": 5
+    },
+    {
+      "turn": 25,
+      "target": "红色方选择干员6",
+      "action": "pick",
+      "team": "red",
+      "order": 6
+    },
+    {
+      "turn": 26,
+      "target": "蓝色方选择干员6",
+      "action": "pick",
+      "team": "blue",
+      "order": 6
+    },
+    {
+      "turn": 27,
+      "target": "蓝色方选择干员7",
+      "action": "pick",
+      "team": "blue",
+      "order": 7
+    },
+    {
+      "turn": 28,
+      "target": "红色方选择干员7",
+      "action": "pick",
+      "team": "red",
+      "order": 7
+    },
+    {
+      "turn": 29,
+      "target": "红色方选择干员8",
+      "action": "pick",
+      "team": "red",
+      "order": 8
+    },
+    {
+      "turn": 30,
+      "target": "蓝色方选择干员8",
+      "action": "pick",
+      "team": "blue",
+      "order": 8
+    },
+    {
+      "turn": 31,
+      "target": "蓝色方选择干员9",
+      "action": "pick",
+      "team": "blue",
+      "order": 9
+    },
+    {
+      "turn": 32,
+      "target": "红色方选择干员9",
+      "action": "pick",
+      "team": "red",
+      "order": 9
+    },
+    {
+      "turn": 33,
+      "target": "红色方选择干员10",
+      "action": "pick",
+      "team": "red",
+      "order": 10
+    },
+    {
+      "turn": 34,
+      "target": "蓝色方选择干员10",
+      "action": "pick",
+      "team": "blue",
+      "order": 10
+    }
+  ]

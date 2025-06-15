@@ -1,0 +1,25 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "node": true,
+    "es2021": true
+  },
+  "extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended"],
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint/eslint-plugin", "eslint-plugin-tsdoc"],
+  "rules": {
+    //"semi": "error",
+    "@typescript-eslint/no-empty-interface": "error",
+    "no-extra-parens": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "error",
+    // "@typescript-eslint/no-explicit-any": "error",
+    //"no-console": "warn",
+    "@typescript-eslint/no-inferrable-types":"error",
+    "@typescript-eslint/no-unused-vars": "off",
+    "prefer-const": "off"
+  }
+  // "overrides": [
+
+  // ]
+}

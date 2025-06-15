@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\My Code\\aic-bp-server\\src\\logs\\.13adb8b0974654a4f033d70e760427dd969ad8d5-audit.json",
+    "files": [
+        {
+            "date": 1749986068094,
+            "name": "D:\\My Code\\aic-bp-server\\src\\logs\\app-2025-06-15.log",
+            "hash": "6f749f76e3e92a6f00ef66366637d89b6f1335e24da95209f16f89026363d25e"
+        }
+    ],
+    "hashType": "sha256"
+}

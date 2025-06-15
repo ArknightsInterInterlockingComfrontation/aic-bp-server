@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "target": "es6",
+    "moduleResolution": "node",
+    "outDir": ".output",
+    "resolveJsonModule": true,
+    "removeComments": false,
+    "noEmitOnError": true,
+    "allowJs": true,
+    "checkJs": true,
+    "noImplicitAny":true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "strictNullChecks":true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": false,
+    "rootDir": "./src",
+    "typeRoots": ["./types", "./node_modules/@types"],
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": true
+   
+  },
+  "exclude": ["./src/public/**/*"],
+  "include": ["./src/index.ts","./src/**/*"]
+}

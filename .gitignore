@@ -1,0 +1,8 @@
+node_modules
+*.log*
+.cache
+.output
+.env
+.output
+dist
+replays/**
